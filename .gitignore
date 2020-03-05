@@ -4,6 +4,12 @@ env
 #notebook checkpoints
 .ipynb_checkpoints
 
+<<<<<<< HEAD
 #Data
 Data
 .csv
+=======
+#Dataset
+Data/
+*.csv
+>>>>>>> 4045b7afd9ae79769a5f6ee5089f417a2456a9c9
