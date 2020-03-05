@@ -3,3 +3,6 @@ env
 
 #notebook checkpoints
 .ipynb_checkpoints
+
+#Dataset
+Data
