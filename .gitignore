@@ -6,3 +6,4 @@ env
 
 #Dataset
 Data/
+*.csv
